@@ -1,1 +1,1 @@
-# CSC-211-Calendar-Project
+# CSC 211 Calendar Project
